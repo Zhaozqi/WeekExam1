@@ -1,0 +1,53 @@
+
+服务器账号密码：
+	
+47.106.81.40
+zhao123..
+wx3b2b02b57f73079a
+
+邮箱：anesocqkhhjhbhac
+
+
+百度地图开放平台：http://lbsyun.baidu.com/index.php
+
+
+QQ：
+APP ID：101353491
+APP Key：df4e46ba7da52f787c6e3336d30526e4
+回调地址：http://www.iwebshop.com/index.php
+
+
+QQ登录网址：http://wiki.connect.qq.com/%E5%BC%80%E5%8F%91%E6%94%BB%E7%95%A5_client-side
+
+
+容联云通讯网址：
+https://www.yuntongxun.com
+
+048d24fb826b402eaac0c9b97965fed5
+
+
+Excel官方地址
+https://phpspreadsheet.readthedocs.io/en/develop/topics/accessing-cells/#setting-a-range-of-cells-from-an-array
+
+图表：https://www.hcharts.cn/
+
+
+和风天气：https://console.heweather.com/my/service
+
+
+Bootstrap: https://v3.bootcss.com/getting-started/#download
+
+
+微信公众平台开发文档
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432
+
+
+测试号申请、登录网址
+https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+
+
+yii官网：https://www.yiichina.com/    https://www.yiichina.com/tutorial/341
+
+
+wangEdito:https://www.wangeditor.com/
+
